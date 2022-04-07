@@ -1,0 +1,65 @@
+.logos{
+	height: 80px;
+	background-color: lightblue;
+
+}
+.logo{
+width: 100%;
+float: left;
+height: 80px;
+background-color: lightblue;
+}
+img{
+	width: 72px;
+	margin-top: 4px;
+}
+.wrapper{
+overflow: hidden;
+margin-top: 15px;
+}
+.navbar{
+	height: 600px;
+	width: 13%;
+	background-color: #b86a6a;
+	float: left;
+}
+.navbar a{
+	margin: 5px;
+	outline: none;
+	text-decoration: none;
+	display: block;
+	text-align: center;
+	font-size: 20px;
+	margin-top: 30px;
+}
+.header{
+	height: 600px;
+	width:85% ;
+	float: right;
+}
+.bannar{
+	height: 200px;
+	background-color: #b86a6a;
+	text-align: center;
+	font-size:30px;
+	line-height: 7;
+}
+.bannar h1{
+	margin-top: 25px;
+}
+.bodyarea{
+	height: 400px;
+	background-color:#25706f;
+	margin-top: 15px;
+	text-align: center;
+	font-size: 30px;
+	line-height: 12;
+}
+.footers{
+	background-color: black;
+	height: 100px;
+	font-size: 17px;
+	color: white;
+	text-align: center;
+	line-height: 6;
+}

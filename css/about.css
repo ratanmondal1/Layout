@@ -1,0 +1,126 @@
+body{
+	background-color: #757b75;
+	margin-bottom: 50px;
+}
+.header{
+	display:block;
+	background-color: lightblue;
+	text-align: center;
+	border: 0;
+	padding: 0;
+	font-size: 23px;
+	overflow: hidden;
+}
+.header,a{
+	margin: 5px;
+	outline: none;
+	text-decoration: none;
+	margin-top: 5px;
+}
+.navbar{
+	margin-top: 26px;
+
+}
+.logo{
+width: 30%;
+float: left;
+}
+.navbar{
+width: 65%;
+float: right;
+}
+img{
+	width: 72px;
+	margin-top: 4px;
+}
+.container{
+	background-color: lightblue;
+	overflow: hidden;
+	text-align: center;
+	color: #0603e0;
+	padding-bottom: 30px;
+	line-height: 5;
+}
+.box{
+	height: 200px;
+	width: 24%;
+
+}
+.red{
+	background-color: red;
+	float: left;
+	margin-left: 15px;
+	margin-top: 15px;
+}
+.green{
+	background-color: green;
+	float: left;
+	margin-left: 15px;
+	margin-top: 15px;
+}
+.yellow{
+	background-color: yellow;
+	float: left;
+	margin-left: 15px;
+	margin-top: 15px;
+}
+.black{
+	background-color: black;
+	float: left;
+	margin-left: 15px;
+	margin-top: 15px;
+}
+
+.boxs{
+	background-color: #bfbfe4;
+	overflow: hidden;
+	text-align: center;
+	color: white;
+	margin-top: 15px;
+	padding: 50px;
+	line-height: 8;
+}
+.single{
+	height: 300px;
+	width: 30%;
+	margin-top: 28px;
+
+}
+.box1{
+	background-color: green;
+	float: left;
+	margin-left: 32px;
+}
+.box2{
+	background-color: blue;
+	float: left;
+	margin-left: 32px;
+}
+.box3{
+	background-color: gray;
+	float: left;
+	margin-left: 32px;
+}
+.footer{
+	height: 200px;
+	background-color: blueviolet;
+	margin-top: 5px;
+	overflow: hidden;
+	padding: 60px;
+}
+.text{
+	height: 200px;
+	width: 40%;
+	float: left;
+	color: white;
+}
+.text p{
+	margin-left: 50px;
+	font-size: 16px;
+}
+.form{
+	height: 200px;
+	width: 55%;
+	float: right;
+	color: white;
+}
